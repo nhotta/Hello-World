@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("test\n");
+    printf("test git\n");
 
     return 0;
 }
